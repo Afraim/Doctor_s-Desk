@@ -1,0 +1,70 @@
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\Doctor's Desk.exe.config
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\Doctor's Desk.exe
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\Doctor's Desk.pdb
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor's Desk.csprojAssemblyReference.cache
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor_s_Desk.Main.resources
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor_s_Desk.Properties.Resources.resources
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor's Desk.csproj.GenerateResource.cache
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor's Desk.csproj.CoreCompileInputs.cache
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor's Desk.exe
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor's Desk.pdb
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\en\Doctor's Desk.resources.dll
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor_s_Desk.Main.en.resources
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\en\Doctor's Desk.resources.dll
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\MySql.Data.dll
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\Google.Protobuf.dll
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\Zstandard.Net.dll
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\BouncyCastle.Crypto.dll
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\Ubiety.Dns.Core.dll
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\Renci.SshNet.dll
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\System.Memory.dll
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\System.Buffers.dll
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\K4os.Compression.LZ4.dll
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\K4os.Hash.xxHash.dll
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\System.Numerics.Vectors.dll
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\ULAB\semester 9\C#\Doctor's Desk\bin\Debug\MySql.Data.xml
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor's Desk.exe.config
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor's Desk.csproj.CopyComplete
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor_s_Desk.options.resources
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor_s_Desk.patient.resources
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor_s_Desk.view.resources
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor_s_Desk.solutions.resources
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor_s_Desk.testreport.resources
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor_s_Desk.dischargform.resources
+F:\ULAB\semester 9\C#\Doctor's Desk\obj\Debug\Doctor_s_Desk.AdminLog.resources
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\bin\Debug\Doctor's Desk.exe.config
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\bin\Debug\Doctor's Desk.exe
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\bin\Debug\MySql.Data.dll
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\bin\Debug\Google.Protobuf.dll
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\bin\Debug\Zstandard.Net.dll
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\bin\Debug\BouncyCastle.Crypto.dll
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\bin\Debug\Ubiety.Dns.Core.dll
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\bin\Debug\Renci.SshNet.dll
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\bin\Debug\System.Memory.dll
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\bin\Debug\System.Buffers.dll
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\bin\Debug\K4os.Compression.LZ4.dll
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\bin\Debug\K4os.Hash.xxHash.dll
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\bin\Debug\System.Numerics.Vectors.dll
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\bin\Debug\MySql.Data.xml
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor's Desk.csprojAssemblyReference.cache
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor's Desk.exe.config
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor_s_Desk.AdminLog.resources
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor_s_Desk.dischargform.resources
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor_s_Desk.Main.resources
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor_s_Desk.options.resources
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor_s_Desk.patient.resources
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor_s_Desk.Properties.Resources.resources
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor_s_Desk.solutions.resources
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor_s_Desk.testreport.resources
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor_s_Desk.view.resources
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor_s_Desk.Main.en.resources
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor's Desk.csproj.GenerateResource.cache
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor's Desk.csproj.CoreCompileInputs.cache
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\en\Doctor's Desk.resources.dll
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor's Desk.csproj.CopyComplete
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor's Desk.exe
+F:\ULAB\semester 9\C#\final project (181014080)\Doctor's Desk\obj\Debug\Doctor's Desk.pdb
